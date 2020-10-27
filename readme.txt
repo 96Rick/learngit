@@ -11,4 +11,4 @@ New feature is avaliable now!
 Learning Git version:
 
 Stabel version: 1.0
-Dev version: 1.1
+Dev version: 1.2
