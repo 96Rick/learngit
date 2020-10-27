@@ -7,4 +7,4 @@ Git has mutable index called stage.
 Creating a new repository is very quick and simple.
 Feature1 now is avaliable!
 
-new freature is working ...
+new feature is avaliable now !
